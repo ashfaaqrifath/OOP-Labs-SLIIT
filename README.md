@@ -1,2 +1,2 @@
 # OOP-Labs-SLIIT
-OOP Labs SLIIT
+OOP Campus lab worksheets.
